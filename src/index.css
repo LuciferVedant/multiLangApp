@@ -1,0 +1,18 @@
+/* toast css */
+@media (max-width: 480px) {
+  .custom-toast {
+    margin-top: 1.25rem;
+    margin-right: 1.1rem;
+    margin-left: 9rem;
+    max-width: 90%;
+  }
+}
+
+/* page not found css */
+.pagenotfound {
+  padding-top: 15rem;
+}
+.btn-close {
+  filter: invert(1) brightness(1000%);
+  /* color: black; */
+}
